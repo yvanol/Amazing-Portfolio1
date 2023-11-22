@@ -71,6 +71,11 @@ img {
   display: block;
 }
 
+.img1{
+
+  max-width: 28%;
+  padding-top: 4px;
+}
 /*===== CLASS CSS ===== */
 .section-title {
   position: relative;
